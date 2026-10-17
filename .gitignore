@@ -1,0 +1,8 @@
+# Environments and cache
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Raw heavy archives (optional: comment out if you want to track gz files)
+data/*.gz
